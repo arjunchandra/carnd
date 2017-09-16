@@ -1,4 +1,4 @@
-# Self-Driving Car Engineer Nanodegre Projects
+# Self-Driving Car Engineer Nanodegree Projects
 
 This repo holds the projects carried out during the Self-Driving Car Engineer Nanodegree program from Udacity. 
 
